@@ -18,19 +18,6 @@ A modern healthcare management system built with React.js and Node.js that strea
 - Database: MongoDB
 - Deployment: Docker
 
-## Screenshots
-
-### Home Page
-![Home Page](client/public/screenshots/home.png)
-
-### Hospital Dashboard
-![Dashboard](client/public/screenshots/dashboard.png)
-
-### Appointment Booking
-![Appointment](client/public/screenshots/appointment.png)
-
-### Lab Tests
-![Lab Tests](client/public/screenshots/labtest.png)
 
 ## Quick Start
 
